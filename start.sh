@@ -1,0 +1,1 @@
+./webdav-server -dir=/home/roy/coding/webdav/src/webdav/webdav-dir -http="0.0.0.0:9090"  -https-cert-file=./server.crt -https-key-file=./server.key -https-mode=false -user=roy -password=ForeverLinux123
